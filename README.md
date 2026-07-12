@@ -1,136 +1,118 @@
-# 👋 Neha | Financial Data Analyst
+# Neha | Financial Data Analyst
 
-**Senior Data & Business Intelligence Analyst** | Python • SQL • Tableau • Machine Learning  
-**Location:** Warsaw, Poland | **Open to:** Remote & On-site Opportunities
+I build data systems that drive real business decisions. With 11+ years in financial analytics and automation, I translate messy datasets into actionable intelligence—turning $250K+ in value across Wells Fargo, HSBC, and other tier-1 institutions.
 
----
-
-## 🎯 Executive Summary
-
-Senior Data & Business Intelligence Analyst with **11+ years** of experience translating complex financial data ecosystems into strategic business decisions across **fintech, banking, and AI-driven settings**. 
-
-**Track Record:**
-- **$250K+ cumulative business impact** through data-driven solutions
-- **30% reduction** in operational reporting time
-- **25%+ improvement** in data accuracy with 40% reduction in manual effort
-
-Specialized in building end-to-end analytics and automation solutions from design through production, with proven expertise at tier-1 financial institutions (**Wells Fargo, HSBC Bank**). Currently seeking senior analytics positions in technology-focused organizations.
+Based in Warsaw, Poland. Currently exploring opportunities in fintech, banking analytics, and AI-driven data science.
 
 ---
 
-## 💼 Core Competencies
+## What I Do
 
-### **Programming & Analytics**
-- **Languages:** Python (pandas, numpy, scikit-learn, seaborn), SQL, R, MySQL
-- **Machine Learning:** Scikit-learn, XGBoost, Bayesian Networks, NLP, BERT, LLMs
-- **Data Visualization:** Tableau, Power BI, seaborn, Matplotlib, Plotly
+I work at the intersection of **data engineering, business intelligence, and process optimization**. My projects fall into a few categories:
 
-### **Tools & Technologies**
-- **Data Platforms:** Snowflake, Azure Data Factory, dbt, ETL pipeline design
-- **BI & Dashboards:** Power BI (DAX), Tableau, KPI governance & data lineage management
-- **Automation & Workflow:** n8n, Alteryx, Zapier, Blue Prism, UiPath
-- **Enterprise Tools:** Jira, Confluence, Git, Jupyter, BPMN/UML (Stella Architect)
-- **Cloud:** Microsoft Azure, AWS (foundational exposure)
+**Financial Analytics & Compliance**
+Most of my recent work centers on banking workflows—automating compliance reporting, analyzing transaction patterns, and building dashboards that help teams make faster decisions. At Wells Fargo, I cut operational reporting time by 30% through smarter data pipelines. At HSBC, I built end-to-end automation for account closures, reducing turnaround time by 35%.
 
-### **Expertise**
-- **Financial Analysis:** Currency transaction reporting, account lifecycle automation, compliance analytics
-- **Business Intelligence:** KPI design, data lineage, dashboard architecture
-- **Process Optimization:** Feasibility analysis, AS-IS/TO-BE modeling, benefit calculation
-- **AI & LLMs:** Generative AI-powered predictive analytics, prompt engineering, workflow automation
-- **Agile & Scrum:** Sprint execution, cross-functional collaboration, delivery management
+See: [finance-projects](https://github.com/neha-smhs/finance-projects) | [SQL-projects](https://github.com/neha-smhs/SQL-projects)
+
+**Data-Driven Process Optimization**
+I'm obsessed with finding inefficiencies. I analyze business processes, model them in AS-IS/TO-BE frameworks, and use data to calculate the impact of change. This often leads to 25-40% improvements in cycle time or accuracy.
+
+**Machine Learning for Predictive Analytics**
+Python, scikit-learn, and statistical modeling to solve classification and clustering problems. I've built churn prediction models, customer segmentation pipelines, and anomaly detection systems. Recently won a Data Challenge (2025) using generative AI for predictive analytics.
+
+**Automation at Scale**
+I design end-to-end automation workflows—from discovery through UAT to production. Blue Prism, UiPath, n8n, Alteryx—I pick the right tool for the job. One project: automated Document AI/OCR for financial document processing, improving accuracy by 25% and cutting manual effort by 40%.
 
 ---
 
-## 🏆 Key Achievements
+## How I Think About Problems
 
-**Wells Fargo | Senior Business Execution Consultant** *(Jun 2022 - Jul 2023)*
-- Led feasibility analysis across **10+ business processes** using data-driven methods
-- Designed AS-IS/TO-BE analytical models, **reducing reporting time by 30%**
-- Deployed automation solutions delivering **$50K annual savings**
+**Start with the business question, not the tool.** Too many teams jump to "which visualization tool?" before understanding what decision needs to be made. I reverse that: What does the business need to know? What data answers that? Then I build the pipeline.
 
-**HSBC Bank | Digital Consultant** *(Nov 2018 - Jun 2022)*
-- Owned end-to-end analytics and automation solutions from design to production
-- **Improved customer satisfaction by 20%** with **$200K revenue impact**
-- Reduced project turnaround time by **15%** through efficiency-driven process improvements
-- Leveraged Document AI/OCR to extract financial data with **25% accuracy improvement**
+**Measure impact, not activity.** Every project has a metric. Is it $, time saved, accuracy, or risk reduction? If you can't quantify it, you can't improve it. This is why my projects consistently deliver 20-30% gains—I build toward measurable outcomes, not deliverables.
 
-**DXC Technology | Business Analyst** *(Mar 2016 - Oct 2018)*
-- Translated business needs into data and functional specifications for insurance clients
-- **Reduced manual errors by 40%** using analytics-driven workflows
-- Streamlined procurement, achieving **25% reduction in procurement cycle time**
-
-**Cognizant Technology Solutions | Product Specialist** *(Dec 2011 - Mar 2016)*
-- Improved data quality and analytical reporting, **preventing $120K in compliance penalties**
-- Executed end-to-end functional testing across 7 insurance applications
-- Mentored junior team members through knowledge transfer sessions
-
-**Recent Roles:**
-- **Coding Analyst @ Mercor** (Jan-Nov 2025): Evaluated 200+ Python code submissions with 25% quality improvement
-- **Computer Science Expert @ Mercor** (Feb 2025): Applied programming & algorithm skills to innovate solutions
-- **Digital Annotation Expert @ Mercor** (Nov 2025-Jan 2026): Created high-quality annotated datasets for ML model training
+**Data is only valuable when it's usable.** A perfect model no one understands is worthless. I design for humans: dashboards that tell a story, documentation that actually gets read, automation that doesn't require a PhD to maintain.
 
 ---
 
-## 📚 Education
+## What I'm Working On
 
-**M.S. Data Science** | University at Buffalo, SUNY, USA  
-*GPA: 3.96 / 4.0* | August 2023 - December 2024
+**Recent roles** show my continuous evolution:
+- **Coding Analyst** (Mercor, 2025): Reviewed 200+ Python submissions for code quality, algorithmic efficiency, and correctness. Built validation checks that reduced review turnaround time by 30%.
+- **Digital Annotation Expert** (Mercor, 2025): Created high-quality annotated datasets for ML model training, ensuring data integrity for production systems.
 
-**B.Tech Computer Science** | ICFAI University, Dehradun, India  
-*CGPA: 8.06 / 10.0* | May 2007 - July 2011
+**Current skill focus:** Generative AI and LLMs for financial analysis, Azure Data Factory workflows, advanced SQL optimization, and modern data stack tools (dbt, Snowflake).
 
 ---
 
-## 🏅 Certifications & Awards
+## Tech Stack
+
+**Languages & Frameworks:** Python (pandas, numpy, scikit-learn, seaborn), SQL, R, MySQL
+
+**Machine Learning:** Scikit-learn, XGBoost, Bayesian Networks, NLP, BERT, LLMs, generative AI
+
+**Data Visualization:** Tableau, Power BI (DAX), matplotlib, seaborn, Plotly
+
+**Data Platforms:** Snowflake, Azure Data Factory, dbt, ETL pipeline design, AWS (foundational)
+
+**BI & Analytics:** Power BI, Tableau, KPI design, data lineage management, dashboard architecture
+
+**Automation & Workflows:** n8n, Alteryx, Zapier, Blue Prism, UiPath, Document AI/OCR
+
+**Tools:** Jira, Confluence, Git, Jupyter, BPMN/UML modeling, Enterprise Architect
+
+---
+
+## Impact Highlights
+
+**Wells Fargo | Senior Business Execution Consultant** (2022–2023)
+Analyzed 10+ business processes, identified automation opportunities, and designed analytical models that reduced operational reporting time by 30%. Deployed solutions delivering $50K annual savings. Currency Transaction Reporting (CTR) automation now handles thousands of transactions monthly with regulatory compliance built-in.
+
+**HSBC Bank | Digital Consultant** (2018–2022)
+Owned end-to-end analytics and automation solutions. Key wins: 35% reduction in account closure turnaround time, 20% improvement in customer satisfaction with $200K revenue impact, 15% faster project delivery through process optimization, 25% boost in data accuracy using Document AI/OCR.
+
+**DXC Technology | Business Analyst** (2016–2018)
+Translated requirements from US insurance clients into data specifications. Reduced manual errors by 40% through analytics-driven workflows. Streamlined procurement processes by 25%.
+
+**Cognizant Technology Solutions | Product Specialist** (2011–2016)
+Improved data quality frameworks, preventing $120K in compliance penalties. Built testing infrastructure for insurance applications with zero defects on delivery.
+
+---
+
+## Education & Credentials
+
+**M.S. Data Science** | University at Buffalo, SUNY (3.96/4.0 GPA)  
+Coursework in machine learning, statistical inference, data engineering, and AI systems.
+
+**B.Tech Computer Science** | ICFAI University, Dehradun (8.06/10.0 CGPA)
 
 **Certifications:**
-- ✅ Snowflake - Certificate of Attendance
-- ✅ Alteryx Designer Core Certification
-- ✅ Microsoft Excel with A.I Masterclass
-- 🏆 **Data Challenge Winner 2025** (GenAI in Academia track)
-- 🏆 **Product Build Day Winner - Track 01**
-- 🏆 WorldWideVibes Hackathon - Finalist
+- Snowflake Fundamentals
+- Alteryx Designer Core
+- Microsoft Excel with AI Masterclass
+- Data Challenge Winner 2025 (GenAI track)
 
 **Recognition:**
-- ⭐ Star of the Business Service (Operation Transformation), HSBC Bank - Star Nite 2020
-- ⭐ Spot Appreciation Award, AI Hackathon - Cognizant Technology Solutions
+- Star of the Business Service (HSBC, 2020)
+- Spot Appreciation Award (Cognizant, GenAI Hackathon)
 
 ---
 
-## 📊 Project Highlights
+## Let's Build Something
 
-### **Currency Transaction Reporting (CTR) Automation** – Wells Fargo
-Automated CTR filing for large-volume cash activities routed to AML/Regulatory Reporting/Compliance Analytics network, ensuring regulatory compliance across thousands of customer transactions monthly. Leveraged Document AI/OCR to increase data accuracy by ~25% and cut manual review effort by ~40%.
+I'm most interested in projects where data drives strategy—whether that's building analytics platforms, automating financial workflows, or tackling ambiguous data problems.
 
-### **Bank-Initiated Account Closure Automation** – HSBC
-Automated end-to-end account closure workflows across multiple account and card types, reducing processing turnaround time by 35% and cutting errors by 30%.
+**How to reach me:**
+- Email: msneha.gem@gmail.com
+- LinkedIn: [linkedin.com/in/fnu-neha](https://www.linkedin.com/in/fnu-neha)
+- Phone: +48-511-631-873
 
----
-
-## 🔗 Links & Contact
-
-- 📧 **Email:** msneha.gem@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/fnu-neha](https://www.linkedin.com/in/fnu-neha)
-- 🐙 **GitHub:** [github.com/neha-smhs](https://github.com/neha-smhs) ← See my data analysis & ML projects
-- 📱 **Phone:** +48-511-631-873
+**Explore my work:**
+- [finance-projects](https://github.com/neha-smhs/finance-projects) — Financial analysis and ML projects
+- [SQL-projects](https://github.com/neha-smhs/SQL-projects) — Data querying and optimization
+- [GitHub Profile](https://github.com/neha-smhs)
 
 ---
 
-## 💡 Why Work With Me?
-
-✅ **Results-Driven:** Track record of $250K+ business impact through data solutions  
-✅ **Full-Stack Analytics:** From data engineering (SQL, Python, ETL) to visualization (Tableau, Power BI) to ML models  
-✅ **Financial Domain Expert:** Deep experience in banking, fintech, and compliance analytics  
-✅ **Automation Specialist:** End-to-end solution ownership with 30-40% efficiency gains  
-✅ **AI-Ready:** Hands-on with LLMs, prompt engineering, and generative AI-powered analytics  
-✅ **Global Perspective:** Experience across US, India, and Poland; international student ambassador  
-
----
-
-## 🎓 Continuous Learning
-
-Always exploring the intersection of **generative AI, financial analytics, and data-driven decision-making**. Passionate about solving complex problems with innovative, scalable solutions using cutting-edge tools and methodologies.
-
----
-
-**Let's connect!** I'm open to discussing how I can drive measurable impact on your analytics initiatives.
+Open to remote and on-site opportunities. Let's talk if you're building something that matters.
